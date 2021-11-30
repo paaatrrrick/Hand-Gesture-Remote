@@ -1,5 +1,6 @@
 # Hand-Gesture-Remote
-![remoteControl](https://user-images.githubusercontent.com/88113528/143988010-a5603977-9287-4b9d-b148-721e32828718.gif)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/88113528/144082187-69e47560-1740-4171-89ce-fe80c4df0b11.gif)
+
 ## Quick Use
 Download, replace ROKU_API_KEY with you tv's address, install Mediapipe, and OpenCv.
 
